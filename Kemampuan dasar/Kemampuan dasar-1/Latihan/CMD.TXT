@@ -1,0 +1,1246 @@
+A  SH   I    C:\Users\user\NTUSER.DAT
+A  SH        C:\Users\user\ntuser.dat.LOG1
+A  SH        C:\Users\user\ntuser.dat.LOG2
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+   SH        C:\Users\user\ntuser.ini
+C:\Users\user
+The type of the file system is NTFS.
+
+WARNING!  F parameter not specified.
+Running CHKDSK in read-only mode.
+
+CHKDSK is verifying files (stage 1 of 3)...
+ 0 percent complete. (0 of 139776 file records processed)      1 percent complete. (13978 of 139776 file records processed)      2 percent complete. (27956 of 139776 file records processed)      3 percent complete. (41933 of 139776 file records processed)      4 percent complete. (55911 of 139776 file records processed)      5 percent complete. (69888 of 139776 file records processed)      6 percent complete. (83866 of 139776 file records processed)      7 percent complete. (97844 of 139776 file records processed)      8 percent complete. (111821 of 139776 file records processed)      9 percent complete. (125799 of 139776 file records processed)       139776 file records processed.                                         
+File verification completed.
+  150 large file records processed.                                   
+  0 bad file records processed.                                     
+  2 EA records processed.                                           
+  48 reparse records processed.                                      
+CHKDSK is verifying indexes (stage 2 of 3)...
+11 percent complete. (2754 of 190004 index entries processed)    12 percent complete. (5573 of 190004 index entries processed)    13 percent complete. (8393 of 190004 index entries processed)    14 percent complete. (11213 of 190004 index entries processed)    15 percent complete. (14032 of 190004 index entries processed)    16 percent complete. (16852 of 190004 index entries processed)    17 percent complete. (19672 of 190004 index entries processed)    18 percent complete. (22491 of 190004 index entries processed)    19 percent complete. (25311 of 190004 index entries processed)    20 percent complete. (28131 of 190004 index entries processed)    21 percent complete. (30951 of 190004 index entries processed)    22 percent complete. (33770 of 190004 index entries processed)    23 percent complete. (36590 of 190004 index entries processed)    24 percent complete. (39410 of 190004 index entries processed)    25 percent complete. (42229 of 190004 index entries processed)    26 percent complete. (45049 of 190004 index entries processed)    27 percent complete. (47869 of 190004 index entries processed)    28 percent complete. (50688 of 190004 index entries processed)    29 percent complete. (53508 of 190004 index entries processed)    30 percent complete. (56328 of 190004 index entries processed)    31 percent complete. (59148 of 190004 index entries processed)    32 percent complete. (61967 of 190004 index entries processed)    33 percent complete. (64787 of 190004 index entries processed)    34 percent complete. (67607 of 190004 index entries processed)    35 percent complete. (70426 of 190004 index entries processed)    36 percent complete. (73246 of 190004 index entries processed)    37 percent complete. (76066 of 190004 index entries processed)    38 percent complete. (78885 of 190004 index entries processed)    39 percent complete. (81705 of 190004 index entries processed)    40 percent complete. (84525 of 190004 index entries processed)    41 percent complete. (87345 of 190004 index entries processed)    42 percent complete. (90164 of 190004 index entries processed)    43 percent complete. (92984 of 190004 index entries processed)    44 percent complete. (95804 of 190004 index entries processed)    45 percent complete. (98623 of 190004 index entries processed)    46 percent complete. (101443 of 190004 index entries processed)    47 percent complete. (104263 of 190004 index entries processed)    48 percent complete. (107082 of 190004 index entries processed)    49 percent complete. (109902 of 190004 index entries processed)    50 percent complete. (112722 of 190004 index entries processed)    51 percent complete. (115542 of 190004 index entries processed)    52 percent complete. (118361 of 190004 index entries processed)    53 percent complete. (121181 of 190004 index entries processed)    54 percent complete. (124001 of 190004 index entries processed)    55 percent complete. (126820 of 190004 index entries processed)    56 percent complete. (129640 of 190004 index entries processed)    57 percent complete. (132460 of 190004 index entries processed)    58 percent complete. (135279 of 190004 index entries processed)    59 percent complete. (138099 of 190004 index entries processed)    59 percent complete. (140456 of 190004 index entries processed)    60 percent complete. (140919 of 190004 index entries processed)    60 percent complete. (142486 of 190004 index entries processed)    60 percent complete. (142953 of 190004 index entries processed)    60 percent complete. (143394 of 190004 index entries processed)    61 percent complete. (143739 of 190004 index entries processed)    61 percent complete. (145423 of 190004 index entries processed)    62 percent complete. (146558 of 190004 index entries processed)    62 percent complete. (147337 of 190004 index entries processed)    62 percent complete. (148607 of 190004 index entries processed)    63 percent complete. (149378 of 190004 index entries processed)    63 percent complete. (149714 of 190004 index entries processed)    63 percent complete. (150746 of 190004 index entries processed)    64 percent complete. (152198 of 190004 index entries processed)    64 percent complete. (153649 of 190004 index entries processed)    64 percent complete. (153928 of 190004 index entries processed)    64 percent complete. (154252 of 190004 index entries processed)    64 percent complete. (154443 of 190004 index entries processed)    64 percent complete. (154695 of 190004 index entries processed)    65 percent complete. (155017 of 190004 index entries processed)    65 percent complete. (155475 of 190004 index entries processed)    65 percent complete. (155961 of 190004 index entries processed)    65 percent complete. (156186 of 190004 index entries processed)    65 percent complete. (157298 of 190004 index entries processed)    66 percent complete. (157837 of 190004 index entries processed)    66 percent complete. (159505 of 190004 index entries processed)    66 percent complete. (160159 of 190004 index entries processed)    67 percent complete. (160657 of 190004 index entries processed)    67 percent complete. (161570 of 190004 index entries processed)    67 percent complete. (161985 of 190004 index entries processed)    67 percent complete. (162299 of 190004 index entries processed)    67 percent complete. (162575 of 190004 index entries processed)    67 percent complete. (162620 of 190004 index entries processed)    67 percent complete. (162638 of 190004 index entries processed)    67 percent complete. (162695 of 190004 index entries processed)    67 percent complete. (163060 of 190004 index entries processed)    68 percent complete. (163476 of 190004 index entries processed)    68 percent complete. (163907 of 190004 index entries processed)    68 percent complete. (164088 of 190004 index entries processed)    68 percent complete. (164243 of 190004 index entries processed)    68 percent complete. (164853 of 190004 index entries processed)      190004 index entries processed.                                        
+Index verification completed.
+  0 unindexed files scanned.                                        
+  0 unindexed files recovered.                                      
+CHKDSK is verifying security descriptors (stage 3 of 3)...
+78 percent complete. (5007 of 139776 file SDs/SIDs processed)    79 percent complete. (13466 of 139776 file SDs/SIDs processed)    80 percent complete. (21925 of 139776 file SDs/SIDs processed)    81 percent complete. (30385 of 139776 file SDs/SIDs processed)    82 percent complete. (38844 of 139776 file SDs/SIDs processed)    83 percent complete. (47303 of 139776 file SDs/SIDs processed)    84 percent complete. (55762 of 139776 file SDs/SIDs processed)    85 percent complete. (64221 of 139776 file SDs/SIDs processed)    86 percent complete. (72680 of 139776 file SDs/SIDs processed)    87 percent complete. (81139 of 139776 file SDs/SIDs processed)    88 percent complete. (89598 of 139776 file SDs/SIDs processed)    89 percent complete. (98057 of 139776 file SDs/SIDs processed)    90 percent complete. (106516 of 139776 file SDs/SIDs processed)    91 percent complete. (114976 of 139776 file SDs/SIDs processed)    92 percent complete. (123435 of 139776 file SDs/SIDs processed)    93 percent complete. (131894 of 139776 file SDs/SIDs processed)      139776 file SDs/SIDs processed.                                        
+Security descriptor verification completed.
+  25115 data files processed.                                           
+CHKDSK is verifying Usn Journal...
+99 percent complete. (0 of 35194816 USN bytes processed)        100 percent complete. (35192832 of 35194816 USN bytes processed)          35194816 USN bytes processed.                                            
+Usn Journal verification completed.
+Windows has checked the file system and found no problems.
+
+ 102297596 KB total disk space.
+  35778728 KB in 114371 files.
+     66596 KB in 25116 indexes.
+         0 KB in bad sectors.
+    243868 KB in use by the system.
+     65536 KB occupied by the log file.
+  66208404 KB available on disk.
+
+      4096 bytes in each allocation unit.
+  25574399 total allocation units on disk.
+  16552101 allocation units available on disk.
+[Y,N]?The current date is: 18-Oct-19 
+Enter the new date: (dd-mm-yy) The system cannot accept the date entered.
+Enter the new date: (dd-mm-yy)  Volume in drive C has no label.
+ Volume Serial Number is 2E0F-9585
+ Volume in drive C has no label.
+ Volume Serial Number is 2E0F-9585
+
+ Directory of C:\Users\user
+
+27-Jun-18  05:28 PM    <DIR>          .
+27-Jun-18  05:28 PM    <DIR>          ..
+02-Feb-16  11:24 AM    <DIR>          Contacts
+18-Oct-19  10:49 AM    <DIR>          Desktop
+23-Jan-19  02:16 AM    <DIR>          Documents
+15-Sep-19  07:04 PM    <DIR>          Downloads
+02-Feb-16  11:24 AM    <DIR>          Favorites
+02-Feb-16  11:24 AM    <DIR>          Links
+02-Feb-16  11:24 AM    <DIR>          Music
+12-Aug-19  11:29 PM    <DIR>          Pictures
+02-Feb-16  11:24 AM    <DIR>          Saved Games
+02-Feb-16  11:24 AM    <DIR>          Searches
+02-Feb-16  11:24 AM    <DIR>          Videos
+               0 File(s)              0 bytes
+              13 Dir(s)  68,120,829,952 bytes free
+
+Microsoft DiskPart version 6.1.7601
+Copyright (C) 1999-2008 Microsoft Corporation.
+On computer: USER-PC
+
+DISKPART> 
+Microsoft DiskPart version 6.1.7601
+
+ACTIVE      - Mark the selected partition as active.
+ADD         - Add a mirror to a simple volume.
+ASSIGN      - Assign a drive letter or mount point to the selected volume.
+ATTRIBUTES  - Manipulate volume or disk attributes.
+ATTACH      - Attaches a virtual disk file.
+AUTOMOUNT   - Enable and disable automatic mounting of basic volumes.
+BREAK       - Break a mirror set.
+CLEAN       - Clear the configuration information, or all information, off the
+              disk.
+COMPACT     - Attempts to reduce the physical size of the file.
+CONVERT     - Convert between different disk formats.
+CREATE      - Create a volume, partition or virtual disk.
+DELETE      - Delete an object.
+DETAIL      - Provide details about an object.
+DETACH      - Detaches a virtual disk file.
+EXIT        - Exit DiskPart.
+EXTEND      - Extend a volume.
+EXPAND      - Expands the maximum size available on a virtual disk.
+FILESYSTEMS - Display current and supported file systems on the volume.
+FORMAT      - Format the volume or partition.
+GPT         - Assign attributes to the selected GPT partition.
+HELP        - Display a list of commands.
+IMPORT      - Import a disk group.
+INACTIVE    - Mark the selected partition as inactive.
+LIST        - Display a list of objects.
+MERGE       - Merges a child disk with its parents.
+ONLINE      - Online an object that is currently marked as offline.
+OFFLINE     - Offline an object that is currently marked as online.
+RECOVER     - Refreshes the state of all disks in the selected pack.
+              Attempts recovery on disks in the invalid pack, and
+              resynchronizes mirrored volumes and RAID5 volumes
+              that have stale plex or parity data.
+REM         - Does nothing. This is used to comment scripts.
+REMOVE      - Remove a drive letter or mount point assignment.
+REPAIR      - Repair a RAID-5 volume with a failed member.
+RESCAN      - Rescan the computer looking for disks and volumes.
+RETAIN      - Place a retained partition under a simple volume.
+SAN         - Display or set the SAN policy for the currently booted OS.
+SELECT      - Shift the focus to an object.
+SETID       - Change the partition type.
+SHRINK      - Reduce the size of the selected volume.
+UNIQUEID    - Displays or sets the GUID partition table (GPT) identifier or 
+              master boot record (MBR) signature of a disk.
+
+DISKPART> 
+DISKPART> 
+Microsoft DiskPart version 6.1.7601
+
+ACTIVE      - Mark the selected partition as active.
+ADD         - Add a mirror to a simple volume.
+ASSIGN      - Assign a drive letter or mount point to the selected volume.
+ATTRIBUTES  - Manipulate volume or disk attributes.
+ATTACH      - Attaches a virtual disk file.
+AUTOMOUNT   - Enable and disable automatic mounting of basic volumes.
+BREAK       - Break a mirror set.
+CLEAN       - Clear the configuration information, or all information, off the
+              disk.
+COMPACT     - Attempts to reduce the physical size of the file.
+CONVERT     - Convert between different disk formats.
+CREATE      - Create a volume, partition or virtual disk.
+DELETE      - Delete an object.
+DETAIL      - Provide details about an object.
+DETACH      - Detaches a virtual disk file.
+EXIT        - Exit DiskPart.
+EXTEND      - Extend a volume.
+EXPAND      - Expands the maximum size available on a virtual disk.
+FILESYSTEMS - Display current and supported file systems on the volume.
+FORMAT      - Format the volume or partition.
+GPT         - Assign attributes to the selected GPT partition.
+HELP        - Display a list of commands.
+IMPORT      - Import a disk group.
+INACTIVE    - Mark the selected partition as inactive.
+LIST        - Display a list of objects.
+MERGE       - Merges a child disk with its parents.
+ONLINE      - Online an object that is currently marked as offline.
+OFFLINE     - Offline an object that is currently marked as online.
+RECOVER     - Refreshes the state of all disks in the selected pack.
+              Attempts recovery on disks in the invalid pack, and
+              resynchronizes mirrored volumes and RAID5 volumes
+              that have stale plex or parity data.
+REM         - Does nothing. This is used to comment scripts.
+REMOVE      - Remove a drive letter or mount point assignment.
+REPAIR      - Repair a RAID-5 volume with a failed member.
+RESCAN      - Rescan the computer looking for disks and volumes.
+RETAIN      - Place a retained partition under a simple volume.
+SAN         - Display or set the SAN policy for the currently booted OS.
+SELECT      - Shift the focus to an object.
+SETID       - Change the partition type.
+SHRINK      - Reduce the size of the selected volume.
+UNIQUEID    - Displays or sets the GUID partition table (GPT) identifier or 
+              master boot record (MBR) signature of a disk.
+
+DISKPART> 
+Microsoft DiskPart version 6.1.7601
+
+ACTIVE      - Mark the selected partition as active.
+ADD         - Add a mirror to a simple volume.
+ASSIGN      - Assign a drive letter or mount point to the selected volume.
+ATTRIBUTES  - Manipulate volume or disk attributes.
+ATTACH      - Attaches a virtual disk file.
+AUTOMOUNT   - Enable and disable automatic mounting of basic volumes.
+BREAK       - Break a mirror set.
+CLEAN       - Clear the configuration information, or all information, off the
+              disk.
+COMPACT     - Attempts to reduce the physical size of the file.
+CONVERT     - Convert between different disk formats.
+CREATE      - Create a volume, partition or virtual disk.
+DELETE      - Delete an object.
+DETAIL      - Provide details about an object.
+DETACH      - Detaches a virtual disk file.
+EXIT        - Exit DiskPart.
+EXTEND      - Extend a volume.
+EXPAND      - Expands the maximum size available on a virtual disk.
+FILESYSTEMS - Display current and supported file systems on the volume.
+FORMAT      - Format the volume or partition.
+GPT         - Assign attributes to the selected GPT partition.
+HELP        - Display a list of commands.
+IMPORT      - Import a disk group.
+INACTIVE    - Mark the selected partition as inactive.
+LIST        - Display a list of objects.
+MERGE       - Merges a child disk with its parents.
+ONLINE      - Online an object that is currently marked as offline.
+OFFLINE     - Offline an object that is currently marked as online.
+RECOVER     - Refreshes the state of all disks in the selected pack.
+              Attempts recovery on disks in the invalid pack, and
+              resynchronizes mirrored volumes and RAID5 volumes
+              that have stale plex or parity data.
+REM         - Does nothing. This is used to comment scripts.
+REMOVE      - Remove a drive letter or mount point assignment.
+REPAIR      - Repair a RAID-5 volume with a failed member.
+RESCAN      - Rescan the computer looking for disks and volumes.
+RETAIN      - Place a retained partition under a simple volume.
+SAN         - Display or set the SAN policy for the currently booted OS.
+SELECT      - Shift the focus to an object.
+SETID       - Change the partition type.
+SHRINK      - Reduce the size of the selected volume.
+UNIQUEID    - Displays or sets the GUID partition table (GPT) identifier or 
+              master boot record (MBR) signature of a disk.
+
+DISKPART> 
+DISKPART> 
+DISKPART> 
+Module Name  Display Name           Driver Type   Link Date             
+============ ====================== ============= ======================
+1394ohci     1394 OHCI Compliant Ho Kernel        20-Nov-10 5:44:56 PM  
+ACPI         Microsoft ACPI Driver  Kernel        20-Nov-10 4:19:16 PM  
+AcpiPmi      ACPI Power Meter Drive Kernel        20-Nov-10 4:30:42 PM  
+adp94xx      adp94xx                Kernel        06-Dec-08 6:54:42 AM  
+adpahci      adpahci                Kernel        02-May-07 12:30:09 AM 
+adpu320      adpu320                Kernel        28-Feb-07 7:04:15 AM  
+AFD          Ancillary Function Dri Kernel        20-Nov-10 4:23:27 PM  
+AgereSoftMod Agere Systems Soft Mod Kernel        10-Nov-08 10:01:35 PM 
+agp440       Intel AGP Bus Filter   Kernel        14-Jul-09 6:38:43 AM  
+aliide       aliide                 Kernel        14-Jul-09 6:19:47 AM  
+amdide       amdide                 Kernel        14-Jul-09 6:19:49 AM  
+AmdK8        AMD K8 Processor Drive Kernel        14-Jul-09 6:19:25 AM  
+AmdPPM       AMD Processor Driver   Kernel        14-Jul-09 6:19:25 AM  
+amdsata      amdsata                Kernel        19-Mar-10 7:45:17 AM  
+amdsbs       amdsbs                 Kernel        21-Mar-09 1:36:03 AM  
+amdxata      amdxata                Kernel        19-Mar-10 11:18:18 PM 
+AppID        AppID Driver           Kernel        20-Nov-10 5:14:37 PM  
+arc          arc                    Kernel        25-May-07 4:27:55 AM  
+arcsas       arcsas                 Kernel        15-Jan-09 2:27:37 AM  
+AsyncMac     RAS Asynchronous Media Kernel        14-Jul-09 7:10:13 AM  
+atapi        IDE Channel            Kernel        14-Jul-09 6:19:47 AM  
+athr         Atheros Extensible Wir Kernel        27-Nov-12 11:17:58 AM 
+avgArDisk    avgArDisk              Kernel        06-Sep-19 5:09:53 PM  
+avgArPot     avgArPot               Kernel        06-Sep-19 5:09:54 PM  
+avgbidsdrive avgbidsdriver          File System   06-Sep-19 4:31:17 PM  
+avgbidsh     avgbidsh               File System   06-Sep-19 4:31:15 PM  
+avgbuniv     avgbuniv               File System   06-Sep-19 4:30:56 PM  
+avgKbd       avgKbd                 Kernel        06-Sep-19 5:09:55 PM  
+avgMonFlt    avgMonFlt              File System   06-Sep-19 5:09:55 PM  
+avgRdr       avgRdr                 Kernel        06-Sep-19 5:09:58 PM  
+avgRvrt      avgRvrt                Kernel        06-Sep-19 5:09:54 PM  
+avgSnx       avgSnx                 File System   26-Sep-19 7:03:04 PM  
+avgSP        avgSP                  File System   26-Sep-19 7:03:19 PM  
+avgStm       avgStm                 Kernel        06-Sep-19 5:10:17 PM  
+avgVmm       avgVmm                 Kernel        06-Sep-19 5:09:55 PM  
+b06bdrv      Broadcom NetXtreme II  Kernel        14-Feb-09 5:18:07 AM  
+b57nd60a     Broadcom NetXtreme Gig Kernel        26-Apr-09 6:14:55 PM  
+Beep         Beep                   Kernel        14-Jul-09 7:00:13 AM  
+blbdrive     blbdrive               Kernel        14-Jul-09 6:35:59 AM  
+bowser       Browser Support Driver File System   14-Jul-09 6:23:50 AM  
+BrFiltLo     Brother USB Mass-Stora Kernel        07-Aug-06 8:51:06 AM  
+BrFiltUp     Brother USB Mass-Stora Kernel        07-Aug-06 8:51:02 AM  
+Brserid      Brother MFC Serial Por Kernel        07-Aug-06 8:51:11 AM  
+BrSerWdm     Brother WDM Serial dri Kernel        07-Aug-06 8:51:05 AM  
+BrUsbMdm     Brother MFC USB Fax On Kernel        07-Aug-06 8:51:00 AM  
+BrUsbSer     Brother MFC USB Serial Kernel        09-Aug-06 7:11:02 PM  
+BTHMODEM     Bluetooth Serial Commu Kernel        14-Jul-09 7:06:52 AM  
+cdfs         CD/DVD File System Rea File System   14-Jul-09 6:19:46 AM  
+cdrom        CD-ROM Driver          Kernel        20-Nov-10 4:19:20 PM  
+circlass     Consumer IR Devices    Kernel        14-Jul-09 7:06:34 AM  
+CLFS         Common Log (CLFS)      Kernel        14-Jul-09 6:19:57 AM  
+clwvd        CyberLink WebCam Virtu Kernel        28-Jul-10 8:13:47 AM  
+CmBatt       Microsoft ACPI Control Kernel        14-Jul-09 6:31:03 AM  
+cmdide       cmdide                 Kernel        14-Jul-09 6:19:48 AM  
+CNG          CNG                    Kernel        20-Nov-10 5:08:45 PM  
+Compbatt     Microsoft Composite Ba Kernel        14-Jul-09 6:31:02 AM  
+CompositeBus Composite Bus Enumerat Kernel        20-Nov-10 5:33:17 PM  
+crcdisk      Crcdisk Filter Driver  Kernel        14-Jul-09 7:01:14 AM  
+CSC          Offline Files Driver   Kernel        20-Nov-10 4:27:12 PM  
+DfsC         DFS Namespace Client D File System   20-Nov-10 4:26:31 PM  
+discache     System Attribute Cache Kernel        14-Jul-09 6:37:18 AM  
+Disk         Disk Driver            Kernel        14-Jul-09 6:19:57 AM  
+dmvsc        dmvsc                  Kernel        20-Nov-10 4:57:43 PM  
+drmkaud      Microsoft Trusted Audi Kernel        14-Jul-09 7:06:16 AM  
+DXGKrnl      LDDM Graphics Subsyste Kernel        20-Nov-10 4:50:50 PM  
+ebdrv        Broadcom NetXtreme II  Kernel        31-Dec-08 11:29:28 PM 
+elxstor      elxstor                Kernel        04-Feb-09 5:52:11 AM  
+ErrDev       Microsoft Hardware Err Kernel        14-Jul-09 6:31:04 AM  
+exfat        exFAT File System Driv File System   14-Jul-09 6:23:29 AM  
+fastfat      FAT12/16/32 File Syste File System   14-Jul-09 6:23:28 AM  
+fdc          Floppy Disk Controller Kernel        14-Jul-09 7:00:54 AM  
+FileInfo     File Information FS Mi File System   14-Jul-09 6:34:25 AM  
+Filetrace    Filetrace              File System   14-Jul-09 6:25:40 AM  
+flpydisk     Floppy Disk Driver     Kernel        14-Jul-09 7:00:54 AM  
+FltMgr       FltMgr                 File System   20-Nov-10 4:19:24 PM  
+FsDepends    File System Dependency File System   14-Jul-09 6:26:13 AM  
+fvevol       Bitlocker Drive Encryp Kernel        20-Nov-10 4:24:06 PM  
+gagp30kx     Microsoft Generic AGPv Kernel        14-Jul-09 6:38:43 AM  
+hcw85cir     Hauppauge Consumer Inf Kernel        11-May-09 3:26:00 PM  
+HdAudAddServ Microsoft 1.1 UAA Func Kernel        20-Nov-10 5:44:23 PM  
+HDAudBus     Microsoft UAA Bus Driv Kernel        20-Nov-10 5:43:42 PM  
+HECIx64      Intel(R) Management En Kernel        18-Sep-09 2:54:16 AM  
+HidBatt      HID UPS Battery Driver Kernel        14-Jul-09 6:31:06 AM  
+HidBth       Microsoft Bluetooth HI Kernel        14-Jul-09 7:06:52 AM  
+HidIr        Microsoft Infrared HID Kernel        14-Jul-09 7:06:23 AM  
+HidUsb       Microsoft HID Class Dr Kernel        20-Nov-10 5:43:49 PM  
+HpSAMD       HpSAMD                 Kernel        21-Apr-10 1:32:18 AM  
+HTTP         HTTP                   Kernel        20-Nov-10 4:24:30 PM  
+hwpolicy     Hardware Policy Driver Kernel        20-Nov-10 4:18:54 PM  
+i8042prt     i8042 Keyboard and PS/ Kernel        14-Jul-09 6:19:57 AM  
+iaStorA      iaStorA                Kernel        06-Mar-13 12:49:05 AM 
+iaStorF      iaStorF                Kernel        06-Mar-13 12:49:08 AM 
+iaStorV      iaStorV                Kernel        11-Jun-10 7:46:19 AM  
+igfx         igfx                   Kernel        14-Oct-11 2:05:43 AM  
+iirsp        iirsp                  Kernel        14-Dec-05 4:47:54 AM  
+IntcAzAudAdd Service for Realtek HD Kernel        31-May-11 4:18:41 PM  
+IntcDAud     Intel(R) Display Audio Kernel        23-Aug-11 8:12:57 PM  
+intelide     intelide               Kernel        14-Jul-09 6:19:48 AM  
+intelppm     Intel Processor Driver Kernel        14-Jul-09 6:19:25 AM  
+IpFilterDriv IP Traffic Filter Driv Kernel        20-Nov-10 5:52:19 PM  
+IPMIDRV      IPMIDRV                Kernel        20-Nov-10 5:04:53 PM  
+IPNAT        IP Network Address Tra Kernel        14-Jul-09 7:10:03 AM  
+IRENUM       IR Bus Enumerator      Kernel        14-Jul-09 7:08:59 AM  
+isapnp       isapnp                 Kernel        14-Jul-09 6:31:08 AM  
+iScsiPrt     iScsiPort Driver       Kernel        20-Nov-10 5:35:14 PM  
+kbdclass     Keyboard Class Driver  Kernel        14-Jul-09 6:19:50 AM  
+kbdhid       Keyboard HID Driver    Kernel        20-Nov-10 5:33:25 PM  
+KSecDD       KSecDD                 Kernel        20-Nov-10 4:21:15 PM  
+KSecPkg      KSecPkg                Kernel        20-Nov-10 5:10:34 PM  
+ksthunk      Kernel Streaming Thunk Kernel        14-Jul-09 7:00:19 AM  
+lltdio       Link-Layer Topology Di Kernel        14-Jul-09 7:08:50 AM  
+LSI_FC       LSI_FC                 Kernel        10-Dec-08 5:46:09 AM  
+LSI_SAS      LSI_SAS                Kernel        19-May-09 7:20:23 AM  
+LSI_SAS2     LSI_SAS2               Kernel        19-May-09 7:31:48 AM  
+LSI_SCSI     LSI_SCSI               Kernel        17-Apr-09 5:13:50 AM  
+luafv        UAC File Virtualizatio File System   14-Jul-09 6:26:13 AM  
+megasas      megasas                Kernel        19-May-09 8:09:46 AM  
+MegaSR       MegaSR                 Kernel        19-May-09 8:25:54 AM  
+Modem        Modem                  Kernel        14-Jul-09 7:10:48 AM  
+monitor      Microsoft Monitor Clas Kernel        14-Jul-09 6:38:52 AM  
+mouclass     Mouse Class Driver     Kernel        14-Jul-09 6:19:50 AM  
+mouhid       Mouse HID Driver       Kernel        14-Jul-09 7:00:20 AM  
+mountmgr     Mount Point Manager    Kernel        20-Nov-10 4:19:21 PM  
+mpio         mpio                   Kernel        20-Nov-10 5:35:38 PM  
+mpsdrv       Windows Firewall Autho Kernel        14-Jul-09 7:08:25 AM  
+MRxDAV       WebDav Client Redirect File System   20-Nov-10 4:26:42 PM  
+mrxsmb       SMB MiniRedirector Wra File System   20-Nov-10 4:27:41 PM  
+mrxsmb10     SMB 1.x MiniRedirector File System   20-Nov-10 4:26:53 PM  
+mrxsmb20     SMB 2.0 MiniRedirector File System   20-Nov-10 4:26:47 PM  
+msahci       msahci                 Kernel        20-Nov-10 5:33:58 PM  
+msdsm        msdsm                  Kernel        20-Nov-10 5:35:34 PM  
+Msfs         Msfs                   File System   14-Jul-09 6:19:47 AM  
+mshidkmdf    Pass-through HID to KM Kernel        14-Jul-09 7:06:24 AM  
+msisadrv     msisadrv               Kernel        14-Jul-09 6:19:26 AM  
+MSKSSRV      Microsoft Streaming Se Kernel        14-Jul-09 7:00:18 AM  
+MSPCLOCK     Microsoft Streaming Cl Kernel        14-Jul-09 7:00:17 AM  
+MSPQM        Microsoft Streaming Qu Kernel        14-Jul-09 7:00:17 AM  
+MsRPC        MsRPC                  Kernel        20-Nov-10 4:21:56 PM  
+mssmbios     Microsoft System Manag Kernel        14-Jul-09 6:31:10 AM  
+MSTEE        Microsoft Streaming Te Kernel        14-Jul-09 7:00:17 AM  
+MTConfig     Microsoft Input Config Kernel        14-Jul-09 7:02:08 AM  
+Mup          Mup                    File System   14-Jul-09 6:23:45 AM  
+NativeWifiP  NativeWiFi Filter      Kernel        14-Jul-09 7:07:23 AM  
+NDIS         NDIS System Driver     Kernel        20-Nov-10 4:23:30 PM  
+NdisCap      NDIS Capture LightWeig Kernel        14-Jul-09 7:08:12 AM  
+NdisTapi     Remote Access NDIS TAP Kernel        14-Jul-09 7:10:00 AM  
+Ndisuio      NDIS Usermode I/O Prot Kernel        20-Nov-10 5:50:08 PM  
+NdisWan      Remote Access NDIS WAN Kernel        20-Nov-10 5:52:32 PM  
+NDProxy      NDIS Proxy             Kernel        20-Nov-10 5:52:20 PM  
+NetBIOS      NetBIOS Interface      File System   14-Jul-09 7:09:26 AM  
+NetBT        NetBT                  Kernel        20-Nov-10 4:23:18 PM  
+nfrd960      nfrd960                Kernel        07-Jun-06 4:11:48 AM  
+Npfs         Npfs                   File System   14-Jul-09 6:19:48 AM  
+nsiproxy     NSI proxy service driv Kernel        14-Jul-09 6:21:02 AM  
+Ntfs         Ntfs                   File System   20-Nov-10 4:20:57 PM  
+ntk_PowerDVD ntk_PowerDVD12         Kernel        12-May-11 7:30:24 PM  
+Null         Null                   Kernel        14-Jul-09 6:19:37 AM  
+nvraid       nvraid                 Kernel        20-Mar-10 3:59:20 AM  
+nvstor       nvstor                 Kernel        20-Mar-10 3:45:11 AM  
+nv_agp       NVIDIA nForce AGP Bus  Kernel        14-Jul-09 6:38:44 AM  
+ohci1394     1394 OHCI Compliant Ho Kernel        14-Jul-09 7:06:45 AM  
+Parport      Parallel port driver   Kernel        14-Jul-09 7:00:40 AM  
+partmgr      Partition Manager      Kernel        20-Nov-10 4:20:00 PM  
+pci          PCI Bus Driver         Kernel        20-Nov-10 4:19:11 PM  
+pciide       pciide                 Kernel        14-Jul-09 6:19:49 AM  
+pcmcia       pcmcia                 Kernel        14-Jul-09 6:31:10 AM  
+pcw          Performance Counters f Kernel        14-Jul-09 6:19:27 AM  
+PEAUTH       PEAUTH                 Kernel        14-Jul-09 8:01:19 AM  
+PptpMiniport WAN Miniport (PPTP)    Kernel        20-Nov-10 5:52:31 PM  
+Processor    Processor Driver       Kernel        14-Jul-09 6:19:25 AM  
+Psched       QoS Packet Scheduler   Kernel        20-Nov-10 5:52:18 PM  
+ql2300       ql2300                 Kernel        23-Jan-09 6:05:06 AM  
+ql40xx       ql40xx                 Kernel        19-May-09 8:18:11 AM  
+QWAVEdrv     QWAVE driver           Kernel        14-Jul-09 7:09:48 AM  
+RasAcd       Remote Access Auto Con Kernel        14-Jul-09 7:10:09 AM  
+RasAgileVpn  WAN Miniport (IKEv2)   Kernel        14-Jul-09 7:10:24 AM  
+Rasl2tp      WAN Miniport (L2TP)    Kernel        20-Nov-10 5:52:34 PM  
+RasPppoe     Remote Access PPPOE Dr Kernel        14-Jul-09 7:10:17 AM  
+RasSstp      WAN Miniport (SSTP)    Kernel        14-Jul-09 7:10:25 AM  
+rdbss        Redirected Buffering S File System   20-Nov-10 4:27:51 PM  
+rdpbus       Remote Desktop Device  Kernel        14-Jul-09 7:17:46 AM  
+RDPCDD       RDPCDD                 Kernel        14-Jul-09 7:16:34 AM  
+RDPDR        Terminal Server Device Kernel        20-Nov-10 6:06:41 PM  
+RDPENCDD     RDP Encoder Mirror Dri Kernel        14-Jul-09 7:16:34 AM  
+RDPREFMP     Reflector Display Driv Kernel        14-Jul-09 7:16:35 AM  
+RdpVideoMini Remote Desktop Video M Kernel        20-Nov-10 6:03:42 PM  
+RDPWD        RDP Winstation Driver  Kernel        20-Nov-10 6:04:37 PM  
+rdyboost     ReadyBoost             Kernel        20-Nov-10 4:43:10 PM  
+rspndr       Link-Layer Topology Di Kernel        14-Jul-09 7:08:50 AM  
+RTL8167      Realtek 8167 NT Driver Kernel        18-Jun-13 2:52:16 PM  
+s3cap        s3cap                  Kernel        20-Nov-10 4:57:33 PM  
+sbp2port     sbp2port               Kernel        20-Nov-10 4:19:21 PM  
+scfilter     Smart card PnP Class F Kernel        20-Nov-10 5:09:59 PM  
+sdbus        sdbus                  Kernel        20-Nov-10 4:37:42 PM  
+secdrv       Security Driver        Kernel        13-Sep-06 8:18:38 PM  
+Serenum      Serenum Filter Driver  Kernel        14-Jul-09 7:00:33 AM  
+Serial       Serial                 Kernel        14-Jul-09 7:00:40 AM  
+sermouse     Serial Mouse Driver    Kernel        14-Jul-09 7:00:20 AM  
+sffdisk      SFF Storage Class Driv Kernel        14-Jul-09 7:01:01 AM  
+sffp_mmc     SFF Storage Protocol D Kernel        14-Jul-09 7:01:03 AM  
+sffp_sd      SFF Storage Protocol D Kernel        20-Nov-10 5:34:00 PM  
+sfloppy      High-Capacity Floppy D Kernel        14-Jul-09 7:01:02 AM  
+SiSRaid2     SiSRaid2               Kernel        25-Sep-08 1:28:20 AM  
+SiSRaid4     SiSRaid4               Kernel        02-Oct-08 4:56:04 AM  
+Smb          Message-oriented TCP/I Kernel        14-Jul-09 7:09:09 AM  
+spldr        Security Processor Loa Kernel        11-May-09 11:56:27 PM 
+srv          Server SMB 1.xxx Drive File System   20-Nov-10 4:28:05 PM  
+srv2         Server SMB 2.xxx Drive File System   20-Nov-10 4:27:43 PM  
+srvnet       srvnet                 File System   20-Nov-10 4:27:20 PM  
+stexstor     stexstor               Kernel        18-Feb-09 6:03:36 AM  
+storflt      Disk Virtual Machine B Kernel        20-Nov-10 4:57:30 PM  
+storvsc      storvsc                Kernel        20-Nov-10 4:57:32 PM  
+swenum       Software Bus Driver    Kernel        14-Jul-09 7:00:18 AM  
+Synth3dVsc   Synth3dVsc             Kernel        20-Nov-10 6:07:13 PM  
+Tcpip        TCP/IP Protocol Driver Kernel        20-Nov-10 4:25:52 PM  
+TCPIP6       Microsoft IPv6 Protoco Kernel        20-Nov-10 4:25:52 PM  
+tcpipreg     TCP/IP Registry Compat Kernel        20-Nov-10 5:51:48 PM  
+TDPIPE       TDPIPE                 Kernel        14-Jul-09 7:16:32 AM  
+TDTCP        TDTCP                  Kernel        14-Jul-09 7:16:32 AM  
+tdx          NetIO Legacy TDI Suppo Kernel        20-Nov-10 4:21:54 PM  
+TermDD       Terminal Device Driver Kernel        20-Nov-10 6:03:40 PM  
+terminpt     Microsoft Remote Deskt Kernel        20-Nov-10 6:03:43 PM  
+tssecsrv     Remote Desktop Service Kernel        20-Nov-10 6:04:09 PM  
+TsUsbFlt     TsUsbFlt               Kernel        20-Nov-10 6:07:04 PM  
+TsUsbGD      Remote Desktop Generic Kernel        20-Nov-10 6:07:04 PM  
+tsusbhub     tsusbhub               Kernel        20-Nov-10 6:07:10 PM  
+tunnel       Microsoft Tunnel Minip Kernel        20-Nov-10 5:51:50 PM  
+uagp35       Microsoft AGPv3.5 Filt Kernel        14-Jul-09 6:38:43 AM  
+udfs         udfs                   File System   20-Nov-10 4:26:11 PM  
+uliagpkx     Uli AGP Bus Filter     Kernel        14-Jul-09 6:38:48 AM  
+umbus        UMBus Enumerator Drive Kernel        20-Nov-10 5:44:37 PM  
+UmPass       Microsoft UMPass Drive Kernel        14-Jul-09 7:06:52 AM  
+usbccgp      Microsoft USB Generic  Kernel        20-Nov-10 5:44:03 PM  
+usbcir       eHome Infrared Receive Kernel        14-Jul-09 7:06:36 AM  
+usbehci      Microsoft USB 2.0 Enha Kernel        20-Nov-10 5:43:54 PM  
+usbhub       Microsoft USB Standard Kernel        20-Nov-10 5:44:30 PM  
+usbohci      Microsoft USB Open Hos Kernel        14-Jul-09 7:06:30 AM  
+usbprint     Microsoft USB PRINTER  Kernel        14-Jul-09 7:38:18 AM  
+USBSTOR      USB Mass Storage Drive Kernel        20-Nov-10 5:44:05 PM  
+usbuhci      Microsoft USB Universa Kernel        14-Jul-09 7:06:27 AM  
+usbvideo     USB Video Device (WDM) Kernel        20-Nov-10 5:44:34 PM  
+usb_rndisx   USB RNDIS Adapter      Kernel        14-Jul-09 7:09:50 AM  
+vdrvroot     Microsoft Virtual Driv Kernel        14-Jul-09 7:01:31 AM  
+vga          vga                    Kernel        14-Jul-09 6:38:47 AM  
+VgaSave      VgaSave                Kernel        14-Jul-09 6:38:47 AM  
+vhdmp        vhdmp                  Kernel        20-Nov-10 5:35:36 PM  
+viaide       viaide                 Kernel        14-Jul-09 6:19:50 AM  
+vmbus        vmbus                  Kernel        20-Nov-10 4:57:29 PM  
+VMBusHID     VMBusHID               Kernel        20-Nov-10 4:57:13 PM  
+volmgr       Volume Manager Driver  Kernel        20-Nov-10 4:19:28 PM  
+volmgrx      Dynamic Volume Manager Kernel        20-Nov-10 4:20:43 PM  
+volsnap      Storage volumes        Kernel        20-Nov-10 4:20:08 PM  
+vsmraid      vsmraid                Kernel        31-Jan-09 8:18:57 AM  
+vwifibus     Virtual WiFi Bus Drive Kernel        14-Jul-09 7:07:21 AM  
+vwififlt     Virtual WiFi Filter Dr Kernel        14-Jul-09 7:07:22 AM  
+vwifimp      Microsoft Virtual WiFi Kernel        14-Jul-09 7:07:28 AM  
+WacomPen     Wacom Serial Pen HID D Kernel        14-Jul-09 7:02:07 AM  
+WANARP       Remote Access IP ARP D Kernel        20-Nov-10 5:52:36 PM  
+Wanarpv6     Remote Access IPv6 ARP Kernel        20-Nov-10 5:52:36 PM  
+Wd           Microsoft Watchdog Tim Kernel        14-Jul-09 6:19:55 AM  
+Wdf01000     Kernel Mode Driver Fra Kernel        14-Jul-09 6:22:07 AM  
+WfpLwf       WFP Lightweight Filter Kernel        14-Jul-09 7:09:26 AM  
+WIMMount     WIMMount               File System   14-Jul-09 6:29:31 AM  
+WinUsb       WinUsb                 Kernel        20-Nov-10 5:43:56 PM  
+WmiAcpi      Microsoft Windows Mana Kernel        14-Jul-09 6:31:02 AM  
+ws2ifsl      Winsock IFS Driver     Kernel        14-Jul-09 7:10:33 AM  
+WudfPf       User Mode Driver Frame Kernel        20-Nov-10 5:42:44 PM  
+WUDFRd       WUDFRd                 Kernel        20-Nov-10 5:43:32 PM  
+{329F96B6-DF Power Control [2016/02 Kernel        26-Sep-08 8:11:22 PM  
+Microsoft (R) File Expansion Utility  Version 6.1.7600.16385
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+No files specified.
+Required parameter missing -
+Volume in drive C: is /?cls
+Volume Serial Number is 2E0F-9585
+
+Usage: ping [-t] [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]
+            [-r count] [-s count] [[-j host-list] | [-k host-list]]
+            [-w timeout] [-R] [-S srcaddr] [-4] [-6] target_name
+
+Options:
+    -t             Ping the specified host until stopped.
+                   To see statistics and continue - type Control-Break;
+                   To stop - type Control-C.
+    -a             Resolve addresses to hostnames.
+    -n count       Number of echo requests to send.
+    -l size        Send buffer size.
+    -f             Set Don't Fragment flag in packet (IPv4-only).
+    -i TTL         Time To Live.
+    -v TOS         Type Of Service (IPv4-only. This setting has been deprecated
+                   and has no effect on the type of service field in the IP Header).
+    -r count       Record route for count hops (IPv4-only).
+    -s count       Timestamp for count hops (IPv4-only).
+    -j host-list   Loose source route along host-list (IPv4-only).
+    -k host-list   Strict source route along host-list (IPv4-only).
+    -w timeout     Timeout in milliseconds to wait for each reply.
+    -R             Use routing header to test reverse route also (IPv6-only). 
+    -S srcaddr     Source address to use.
+    -4             Force using IPv4.
+    -6             Force using IPv6.
+
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\user\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=USER-PC
+ComSpec=C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\user
+LOCALAPPDATA=C:\Users\user\AppData\Local
+LOGONSERVER=\\USER-PC
+NUMBER_OF_PROCESSORS=4
+OS=Windows_NT
+Path=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 37 Stepping 2, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=2502
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\user\AppData\Local\Temp
+TMP=C:\Users\user\AppData\Local\Temp
+USERDOMAIN=user-PC
+USERNAME=user
+USERPROFILE=C:\Users\user
+windir=C:\Windows
+windows_tracing_flags=3
+windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+Usage: shutdown [/i | /l | /s | /r | /g | /a | /p | /h | /e] [/f]
+    [/m \\computer][/t xxx][/d [p|u:]xx:yy [/c "comment"]]
+
+    No args    Display help. This is the same as typing /?.
+    /?         Display help. This is the same as not typing any options.
+    /i         Display the graphical user interface (GUI).
+               This must be the first option.
+    /l         Log off. This cannot be used with /m or /d options.
+    /s         Shutdown the computer.
+    /r         Shutdown and restart the computer.
+    /g         Shutdown and restart the computer. After the system is
+               rebooted, restart any registered applications.
+    /a         Abort a system shutdown.
+               This can only be used during the time-out period.
+    /p         Turn off the local computer with no time-out or warning.
+               Can be used with /d and /f options.
+    /h         Hibernate the local computer.
+               Can be used with the /f option.
+    /e         Document the reason for an unexpected shutdown of a computer.
+    /m \\computer Specify the target computer.
+    /t xxx     Set the time-out period before shutdown to xxx seconds.
+               The valid range is 0-315360000 (10 years), with a default of 30.
+               If the timeout period is greater than 0, the /f parameter is
+               implied.
+    /c "comment" Comment on the reason for the restart or shutdown.
+               Maximum of 512 characters allowed.
+    /f         Force running applications to close without forewarning users.
+               The /f parameter is implied when a value greater than 0 is
+               specified for the /t parameter.
+    /d [p|u:]xx:yy  Provide the reason for the restart or shutdown.
+               p indicates that the restart or shutdown is planned.
+               u indicates that the reason is user defined.
+               If neither p nor u is specified the restart or shutdown is
+               unplanned.
+               xx is the major reason number (positive integer less than 256).
+               yy is the minor reason number (positive integer less than 65536).
+
+Reasons on this computer:
+(E = Expected U = Unexpected P = planned, C = customer defined)
+Type	Major	Minor	Title
+
+ U  	0	0	Other (Unplanned)
+E   	0	0	Other (Unplanned)
+E P 	0	0	Other (Planned)
+ U  	0	5	Other Failure: System Unresponsive
+E   	1	1	Hardware: Maintenance (Unplanned)
+E P 	1	1	Hardware: Maintenance (Planned)
+E   	1	2	Hardware: Installation (Unplanned)
+E P 	1	2	Hardware: Installation (Planned)
+E   	2	2	Operating System: Recovery (Planned)
+E P 	2	2	Operating System: Recovery (Planned)
+  P 	2	3	Operating System: Upgrade (Planned)
+E   	2	4	Operating System: Reconfiguration (Unplanned)
+E P 	2	4	Operating System: Reconfiguration (Planned)
+  P 	2	16	Operating System: Service pack (Planned)
+    	2	17	Operating System: Hot fix (Unplanned)
+  P 	2	17	Operating System: Hot fix (Planned)
+    	2	18	Operating System: Security fix (Unplanned)
+  P 	2	18	Operating System: Security fix (Planned)
+E   	4	1	Application: Maintenance (Unplanned)
+E P 	4	1	Application: Maintenance (Planned)
+E P 	4	2	Application: Installation (Planned)
+E   	4	5	Application: Unresponsive
+E   	4	6	Application: Unstable
+ U  	5	15	System Failure: Stop error
+ U  	5	19	Security issue
+E   	5	19	Security issue
+E P 	5	19	Security issue
+E   	5	20	Loss of network connectivity (Unplanned)
+ U  	6	11	Power Failure: Cord Unplugged
+ U  	6	12	Power Failure: Environment
+  P 	7	0	Legacy API shutdown
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0      5,128 K
+smss.exe                       352 Services                   0        180 K
+csrss.exe                      492 Services                   0      1,388 K
+wininit.exe                    536 Services                   0        268 K
+csrss.exe                      556 Console                    1     10,168 K
+services.exe                   592 Services                   0      3,500 K
+lsass.exe                      616 Services                   0      4,508 K
+lsm.exe                        628 Services                   0      1,580 K
+winlogon.exe                   688 Console                    1        884 K
+svchost.exe                    772 Services                   0      3,840 K
+svchost.exe                    880 Services                   0      4,520 K
+svchost.exe                    972 Services                   0      8,476 K
+svchost.exe                   1008 Services                   0     46,624 K
+svchost.exe                    280 Services                   0     17,896 K
+svchost.exe                    956 Services                   0      6,000 K
+svchost.exe                   1128 Services                   0      5,804 K
+AVGSvc.exe                    1292 Services                   0     73,360 K
+spoolsv.exe                   1432 Services                   0      2,028 K
+svchost.exe                   1572 Services                   0      6,392 K
+armsvc.exe                    1656 Services                   0        160 K
+AdobeUpdateService.exe        1704 Services                   0        628 K
+AERTSr64.exe                  1736 Services                   0        148 K
+AGMService.exe                1760 Services                   0      1,080 K
+AGSService.exe                1792 Services                   0        172 K
+CLMSMonitorServicePDVD12.     1828 Services                   0        368 K
+nlssrv32.exe                  1948 Services                   0        116 K
+svchost.exe                   1996 Services                   0      1,220 K
+WUDFHost.exe                  2144 Services                   0        268 K
+unsecapp.exe                  2216 Services                   0      1,284 K
+WmiPrvSE.exe                  2284 Services                   0      5,604 K
+aswEngSrv.exe                 2432 Services                   0     31,492 K
+aswidsagent.exe               2952 Services                   0     15,768 K
+taskhost.exe                  2852 Console                    1      1,800 K
+dwm.exe                        120 Console                    1     26,896 K
+explorer.exe                   212 Console                    1     53,372 K
+hkcmd.exe                     3184 Console                    1      1,096 K
+igfxpers.exe                  3228 Console                    1      2,316 K
+RtkNGUI64.exe                 3272 Console                    1      2,016 K
+AVGUI.exe                     3620 Console                    1     28,892 K
+jusched.exe                   3680 Console                    1        180 K
+YCMMirage.exe                 3688 Console                    1        444 K
+YouCamTray.exe                3696 Console                    1        532 K
+PowerDVD12DMREngine.exe       3728 Console                    1        952 K
+PowerDVD12Agent.exe           3736 Console                    1      3,036 K
+Creative Cloud.exe            3744 Console                    1     12,940 K
+AdobeIPCBroker.exe            3856 Console                    1      2,656 K
+svchost.exe                   3988 Services                   0      1,460 K
+SearchIndexer.exe             4076 Services                   0     15,644 K
+Adobe Desktop Service.exe     3656 Console                    1     10,628 K
+Adobe CEF Helper.exe          3556 Console                    1      1,304 K
+CoreSync.exe                  3652 Console                    1      4,952 K
+CCXProcess.exe                3588 Console                    1        140 K
+node.exe                      2312 Console                    1      6,100 K
+conhost.exe                   4416 Console                    1        300 K
+Adobe CEF Helper.exe          4596 Console                    1      8,108 K
+CLHNServiceForPowerDVD12.     5028 Services                   0        528 K
+wmpnetwk.exe                  4212 Services                   0      3,764 K
+AVGUI.exe                     1932 Console                    1      3,024 K
+taskeng.exe                   4984 Console                    1      1,008 K
+AdobeARM.exe                  3260 Console                    1        528 K
+GoogleCrashHandler.exe        5624 Services                   0        312 K
+GoogleCrashHandler64.exe      6020 Services                   0        340 K
+CLMSServerPDVD12.exe          1080 Services                   0      2,232 K
+chrome.exe                    4460 Console                    1     54,428 K
+chrome.exe                    1116 Console                    1      1,028 K
+chrome.exe                    5980 Console                    1        472 K
+chrome.exe                    2136 Console                    1     40,020 K
+chrome.exe                    5796 Console                    1     13,640 K
+chrome.exe                    2792 Console                    1     13,832 K
+chrome.exe                    5604 Console                    1      5,352 K
+chrome.exe                    4636 Console                    1    142,756 K
+chrome.exe                    6424 Console                    1     73,052 K
+chrome.exe                    5580 Console                    1     31,268 K
+chrome.exe                    6056 Console                    1     32,496 K
+osk.exe                       3676 Console                    1     16,088 K
+audiodg.exe                    812 Services                   0     21,336 K
+cmd.exe                       2576 Console                    1      3,204 K
+conhost.exe                   5540 Console                    1      6,212 K
+WmiPrvSE.exe                  7028 Services                   0      6,032 K
+SearchProtocolHost.exe        4720 Services                   0      8,356 K
+SearchFilterHost.exe          3060 Services                   0      6,828 K
+tasklist.exe                  6980 Console                    1      5,816 K
+Folder PATH listing
+Volume serial number is 2E0F-9585
+C:.
+ÃÄÄÄContacts
+ÃÄÄÄDesktop
+³   ÃÄÄÄNL
+³   ³   ÀÄÄÄaccs
+³   ³       ÀÄÄÄOPEN
+³   ³           ÀÄÄÄ1
+³   ÀÄÄÄPrewed
+ÃÄÄÄDocuments
+³   ÃÄÄÄAdobe
+³   ³   ÀÄÄÄdynamiclinkmediaserver
+³   ³       ÀÄÄÄ6.0
+³   ÃÄÄÄAvatar
+³   ³   ÃÄÄÄAvatarModel
+³   ³   ÀÄÄÄImportComponentLibrary
+³   ÀÄÄÄYoucam
+ÃÄÄÄDownloads
+³   ÃÄÄÄCompressed
+³   ÃÄÄÄCV PORTOFOLIO FAHMI
+³   ÃÄÄÄDocuments
+³   ÃÄÄÄMusic
+³   ÃÄÄÄPrograms
+³   ÀÄÄÄVideo
+ÃÄÄÄFavorites
+³   ÃÄÄÄLinks
+³   ÃÄÄÄLinks for United States
+³   ÃÄÄÄMicrosoft Websites
+³   ÃÄÄÄMSN Websites
+³   ÀÄÄÄWindows Live
+ÃÄÄÄLinks
+ÃÄÄÄMusic
+ÃÄÄÄPictures
+³   ÃÄÄÄBirthday Aulia
+³   ÀÄÄÄLightroom
+³       ÀÄÄÄLightroom 5 Catalog Previews.lrdata
+³           ÃÄÄÄ0
+³           ³   ÃÄÄÄ0010
+³           ³   ÃÄÄÄ0040
+³           ³   ÃÄÄÄ031D
+³           ³   ÃÄÄÄ0393
+³           ³   ÃÄÄÄ03EC
+³           ³   ÃÄÄÄ0495
+³           ³   ÃÄÄÄ04F6
+³           ³   ÃÄÄÄ051C
+³           ³   ÃÄÄÄ0593
+³           ³   ÃÄÄÄ0681
+³           ³   ÃÄÄÄ069D
+³           ³   ÃÄÄÄ0755
+³           ³   ÃÄÄÄ0772
+³           ³   ÃÄÄÄ0879
+³           ³   ÃÄÄÄ0886
+³           ³   ÃÄÄÄ0921
+³           ³   ÃÄÄÄ09D6
+³           ³   ÃÄÄÄ0A03
+³           ³   ÃÄÄÄ0A1E
+³           ³   ÃÄÄÄ0AAB
+³           ³   ÃÄÄÄ0BF1
+³           ³   ÃÄÄÄ0C5A
+³           ³   ÃÄÄÄ0D03
+³           ³   ÃÄÄÄ0D07
+³           ³   ÃÄÄÄ0D76
+³           ³   ÃÄÄÄ0DC8
+³           ³   ÃÄÄÄ0E50
+³           ³   ÃÄÄÄ0EB1
+³           ³   ÃÄÄÄ0F01
+³           ³   ÃÄÄÄ0F0C
+³           ³   ÃÄÄÄ0F2F
+³           ³   ÀÄÄÄ0F87
+³           ÃÄÄÄ1
+³           ³   ÃÄÄÄ10B7
+³           ³   ÃÄÄÄ113F
+³           ³   ÃÄÄÄ11BE
+³           ³   ÃÄÄÄ12DC
+³           ³   ÃÄÄÄ12DE
+³           ³   ÃÄÄÄ1338
+³           ³   ÃÄÄÄ13FF
+³           ³   ÃÄÄÄ1402
+³           ³   ÃÄÄÄ1480
+³           ³   ÃÄÄÄ14B9
+³           ³   ÃÄÄÄ150F
+³           ³   ÃÄÄÄ1537
+³           ³   ÃÄÄÄ1545
+³           ³   ÃÄÄÄ15E8
+³           ³   ÃÄÄÄ1639
+³           ³   ÃÄÄÄ165B
+³           ³   ÃÄÄÄ165F
+³           ³   ÃÄÄÄ17BC
+³           ³   ÃÄÄÄ18AA
+³           ³   ÃÄÄÄ18E4
+³           ³   ÃÄÄÄ195C
+³           ³   ÃÄÄÄ1987
+³           ³   ÃÄÄÄ1B49
+³           ³   ÃÄÄÄ1BCA
+³           ³   ÃÄÄÄ1C53
+³           ³   ÃÄÄÄ1C85
+³           ³   ÃÄÄÄ1C9A
+³           ³   ÃÄÄÄ1D7F
+³           ³   ÃÄÄÄ1DCE
+³           ³   ÃÄÄÄ1E0A
+³           ³   ÃÄÄÄ1E6B
+³           ³   ÃÄÄÄ1E87
+³           ³   ÀÄÄÄ1EF3
+³           ÃÄÄÄ2
+³           ³   ÃÄÄÄ200D
+³           ³   ÃÄÄÄ2022
+³           ³   ÃÄÄÄ20D5
+³           ³   ÃÄÄÄ20FE
+³           ³   ÃÄÄÄ219E
+³           ³   ÃÄÄÄ21EE
+³           ³   ÃÄÄÄ221D
+³           ³   ÃÄÄÄ2242
+³           ³   ÃÄÄÄ2273
+³           ³   ÃÄÄÄ228E
+³           ³   ÃÄÄÄ22C3
+³           ³   ÃÄÄÄ23B4
+³           ³   ÃÄÄÄ23B8
+³           ³   ÃÄÄÄ23F4
+³           ³   ÃÄÄÄ2401
+³           ³   ÃÄÄÄ2445
+³           ³   ÃÄÄÄ2450
+³           ³   ÃÄÄÄ248B
+³           ³   ÃÄÄÄ253A
+³           ³   ÃÄÄÄ263E
+³           ³   ÃÄÄÄ2647
+³           ³   ÃÄÄÄ27D2
+³           ³   ÃÄÄÄ27D6
+³           ³   ÃÄÄÄ27F3
+³           ³   ÃÄÄÄ2847
+³           ³   ÃÄÄÄ28A0
+³           ³   ÃÄÄÄ2999
+³           ³   ÃÄÄÄ29EA
+³           ³   ÃÄÄÄ29FF
+³           ³   ÃÄÄÄ2B17
+³           ³   ÃÄÄÄ2B55
+³           ³   ÃÄÄÄ2BF2
+³           ³   ÃÄÄÄ2C15
+³           ³   ÃÄÄÄ2C24
+³           ³   ÃÄÄÄ2CCE
+³           ³   ÃÄÄÄ2D1C
+³           ³   ÃÄÄÄ2E5E
+³           ³   ÃÄÄÄ2EB4
+³           ³   ÀÄÄÄ2F8F
+³           ÃÄÄÄ3
+³           ³   ÃÄÄÄ300E
+³           ³   ÃÄÄÄ30BE
+³           ³   ÃÄÄÄ31C6
+³           ³   ÃÄÄÄ324B
+³           ³   ÃÄÄÄ33B9
+³           ³   ÃÄÄÄ3418
+³           ³   ÃÄÄÄ3420
+³           ³   ÃÄÄÄ346A
+³           ³   ÃÄÄÄ348D
+³           ³   ÃÄÄÄ34B9
+³           ³   ÃÄÄÄ34CD
+³           ³   ÃÄÄÄ3521
+³           ³   ÃÄÄÄ3526
+³           ³   ÃÄÄÄ3589
+³           ³   ÃÄÄÄ35B0
+³           ³   ÃÄÄÄ35C8
+³           ³   ÃÄÄÄ3665
+³           ³   ÃÄÄÄ36B3
+³           ³   ÃÄÄÄ370D
+³           ³   ÃÄÄÄ375D
+³           ³   ÃÄÄÄ37AB
+³           ³   ÃÄÄÄ37EE
+³           ³   ÃÄÄÄ3800
+³           ³   ÃÄÄÄ3929
+³           ³   ÃÄÄÄ398B
+³           ³   ÃÄÄÄ3BAE
+³           ³   ÃÄÄÄ3BD7
+³           ³   ÃÄÄÄ3C01
+³           ³   ÃÄÄÄ3C78
+³           ³   ÃÄÄÄ3C8E
+³           ³   ÃÄÄÄ3CBC
+³           ³   ÃÄÄÄ3E28
+³           ³   ÃÄÄÄ3EC3
+³           ³   ÃÄÄÄ3ECC
+³           ³   ÃÄÄÄ3F2A
+³           ³   ÀÄÄÄ3FCF
+³           ÃÄÄÄ4
+³           ³   ÃÄÄÄ400D
+³           ³   ÃÄÄÄ403B
+³           ³   ÃÄÄÄ418E
+³           ³   ÃÄÄÄ4238
+³           ³   ÃÄÄÄ431B
+³           ³   ÃÄÄÄ43A1
+³           ³   ÃÄÄÄ43CE
+³           ³   ÃÄÄÄ4413
+³           ³   ÃÄÄÄ4490
+³           ³   ÃÄÄÄ4579
+³           ³   ÃÄÄÄ45F5
+³           ³   ÃÄÄÄ4608
+³           ³   ÃÄÄÄ464F
+³           ³   ÃÄÄÄ4801
+³           ³   ÃÄÄÄ498B
+³           ³   ÃÄÄÄ4A6A
+³           ³   ÃÄÄÄ4B57
+³           ³   ÃÄÄÄ4E0E
+³           ³   ÃÄÄÄ4EC0
+³           ³   ÀÄÄÄ4F9D
+³           ÃÄÄÄ5
+³           ³   ÃÄÄÄ5034
+³           ³   ÃÄÄÄ509B
+³           ³   ÃÄÄÄ50B1
+³           ³   ÃÄÄÄ51BB
+³           ³   ÃÄÄÄ51C3
+³           ³   ÃÄÄÄ521E
+³           ³   ÃÄÄÄ5309
+³           ³   ÃÄÄÄ530D
+³           ³   ÃÄÄÄ5381
+³           ³   ÃÄÄÄ544B
+³           ³   ÃÄÄÄ568B
+³           ³   ÃÄÄÄ5694
+³           ³   ÃÄÄÄ56BB
+³           ³   ÃÄÄÄ57A5
+³           ³   ÃÄÄÄ58DF
+³           ³   ÃÄÄÄ59C9
+³           ³   ÃÄÄÄ59DE
+³           ³   ÃÄÄÄ5A35
+³           ³   ÃÄÄÄ5BB9
+³           ³   ÃÄÄÄ5BBA
+³           ³   ÃÄÄÄ5C4F
+³           ³   ÃÄÄÄ5C82
+³           ³   ÃÄÄÄ5D9D
+³           ³   ÃÄÄÄ5DB0
+³           ³   ÃÄÄÄ5DDC
+³           ³   ÃÄÄÄ5DDE
+³           ³   ÀÄÄÄ5F34
+³           ÃÄÄÄ6
+³           ³   ÃÄÄÄ6046
+³           ³   ÃÄÄÄ615E
+³           ³   ÃÄÄÄ61EF
+³           ³   ÃÄÄÄ62BA
+³           ³   ÃÄÄÄ630D
+³           ³   ÃÄÄÄ6351
+³           ³   ÃÄÄÄ641E
+³           ³   ÃÄÄÄ654F
+³           ³   ÃÄÄÄ6652
+³           ³   ÃÄÄÄ66B2
+³           ³   ÃÄÄÄ673E
+³           ³   ÃÄÄÄ675D
+³           ³   ÃÄÄÄ699D
+³           ³   ÃÄÄÄ69E6
+³           ³   ÃÄÄÄ6B36
+³           ³   ÃÄÄÄ6C2B
+³           ³   ÃÄÄÄ6CBB
+³           ³   ÃÄÄÄ6CFE
+³           ³   ÃÄÄÄ6F0C
+³           ³   ÃÄÄÄ6F12
+³           ³   ÀÄÄÄ6F1D
+³           ÃÄÄÄ7
+³           ³   ÃÄÄÄ705D
+³           ³   ÃÄÄÄ7282
+³           ³   ÃÄÄÄ730F
+³           ³   ÃÄÄÄ73FE
+³           ³   ÃÄÄÄ759E
+³           ³   ÃÄÄÄ7611
+³           ³   ÃÄÄÄ7667
+³           ³   ÃÄÄÄ7685
+³           ³   ÃÄÄÄ7746
+³           ³   ÃÄÄÄ7756
+³           ³   ÃÄÄÄ7823
+³           ³   ÃÄÄÄ7972
+³           ³   ÃÄÄÄ7993
+³           ³   ÃÄÄÄ7A47
+³           ³   ÃÄÄÄ7A65
+³           ³   ÃÄÄÄ7AE8
+³           ³   ÃÄÄÄ7B07
+³           ³   ÃÄÄÄ7B7D
+³           ³   ÃÄÄÄ7C0F
+³           ³   ÃÄÄÄ7C21
+³           ³   ÃÄÄÄ7C23
+³           ³   ÃÄÄÄ7CC9
+³           ³   ÃÄÄÄ7D64
+³           ³   ÃÄÄÄ7EB4
+³           ³   ÃÄÄÄ7F3C
+³           ³   ÃÄÄÄ7FA5
+³           ³   ÃÄÄÄ7FCA
+³           ³   ÀÄÄÄ7FE6
+³           ÃÄÄÄ8
+³           ³   ÃÄÄÄ8061
+³           ³   ÃÄÄÄ80BA
+³           ³   ÃÄÄÄ810E
+³           ³   ÃÄÄÄ812B
+³           ³   ÃÄÄÄ81DB
+³           ³   ÃÄÄÄ82BC
+³           ³   ÃÄÄÄ835A
+³           ³   ÃÄÄÄ842E
+³           ³   ÃÄÄÄ845F
+³           ³   ÃÄÄÄ8486
+³           ³   ÃÄÄÄ84BD
+³           ³   ÃÄÄÄ84FF
+³           ³   ÃÄÄÄ855C
+³           ³   ÃÄÄÄ85DA
+³           ³   ÃÄÄÄ8742
+³           ³   ÃÄÄÄ87C8
+³           ³   ÃÄÄÄ87E8
+³           ³   ÃÄÄÄ87F7
+³           ³   ÃÄÄÄ8A1B
+³           ³   ÃÄÄÄ8A78
+³           ³   ÃÄÄÄ8A81
+³           ³   ÃÄÄÄ8BAA
+³           ³   ÃÄÄÄ8C16
+³           ³   ÃÄÄÄ8C79
+³           ³   ÃÄÄÄ8C7B
+³           ³   ÃÄÄÄ8C83
+³           ³   ÃÄÄÄ8CCC
+³           ³   ÃÄÄÄ8D72
+³           ³   ÃÄÄÄ8E13
+³           ³   ÃÄÄÄ8EE4
+³           ³   ÃÄÄÄ8FB4
+³           ³   ÃÄÄÄ8FB8
+³           ³   ÀÄÄÄ8FD9
+³           ÃÄÄÄ9
+³           ³   ÃÄÄÄ9060
+³           ³   ÃÄÄÄ90DF
+³           ³   ÃÄÄÄ9123
+³           ³   ÃÄÄÄ92B6
+³           ³   ÃÄÄÄ92E7
+³           ³   ÃÄÄÄ936A
+³           ³   ÃÄÄÄ9397
+³           ³   ÃÄÄÄ9448
+³           ³   ÃÄÄÄ9472
+³           ³   ÃÄÄÄ9628
+³           ³   ÃÄÄÄ967A
+³           ³   ÃÄÄÄ96A1
+³           ³   ÃÄÄÄ96A5
+³           ³   ÃÄÄÄ9732
+³           ³   ÃÄÄÄ97DD
+³           ³   ÃÄÄÄ9827
+³           ³   ÃÄÄÄ9958
+³           ³   ÃÄÄÄ99D2
+³           ³   ÃÄÄÄ99F6
+³           ³   ÃÄÄÄ9A74
+³           ³   ÃÄÄÄ9E2D
+³           ³   ÃÄÄÄ9F58
+³           ³   ÀÄÄÄ9F68
+³           ÃÄÄÄA
+³           ³   ÃÄÄÄA00B
+³           ³   ÃÄÄÄA013
+³           ³   ÃÄÄÄA0A7
+³           ³   ÃÄÄÄA0CB
+³           ³   ÃÄÄÄA242
+³           ³   ÃÄÄÄA583
+³           ³   ÃÄÄÄA73E
+³           ³   ÃÄÄÄA780
+³           ³   ÃÄÄÄA7A3
+³           ³   ÃÄÄÄA832
+³           ³   ÃÄÄÄA864
+³           ³   ÃÄÄÄA866
+³           ³   ÃÄÄÄA8F9
+³           ³   ÃÄÄÄA931
+³           ³   ÃÄÄÄA9DF
+³           ³   ÃÄÄÄAB35
+³           ³   ÃÄÄÄABD5
+³           ³   ÃÄÄÄABE8
+³           ³   ÃÄÄÄAC18
+³           ³   ÃÄÄÄAC4A
+³           ³   ÃÄÄÄACBA
+³           ³   ÃÄÄÄADA3
+³           ³   ÃÄÄÄADF4
+³           ³   ÃÄÄÄAE49
+³           ³   ÃÄÄÄAED8
+³           ³   ÃÄÄÄAF7A
+³           ³   ÃÄÄÄAFBF
+³           ³   ÃÄÄÄAFDC
+³           ³   ÀÄÄÄAFF1
+³           ÃÄÄÄB
+³           ³   ÃÄÄÄB036
+³           ³   ÃÄÄÄB0EF
+³           ³   ÃÄÄÄB11C
+³           ³   ÃÄÄÄB283
+³           ³   ÃÄÄÄB2D8
+³           ³   ÃÄÄÄB358
+³           ³   ÃÄÄÄB3B4
+³           ³   ÃÄÄÄB3DB
+³           ³   ÃÄÄÄB434
+³           ³   ÃÄÄÄB440
+³           ³   ÃÄÄÄB449
+³           ³   ÃÄÄÄB495
+³           ³   ÃÄÄÄB54F
+³           ³   ÃÄÄÄB56E
+³           ³   ÃÄÄÄB58B
+³           ³   ÃÄÄÄB60C
+³           ³   ÃÄÄÄB6C2
+³           ³   ÃÄÄÄB743
+³           ³   ÃÄÄÄB787
+³           ³   ÃÄÄÄB817
+³           ³   ÃÄÄÄB8EA
+³           ³   ÃÄÄÄB8FA
+³           ³   ÃÄÄÄB955
+³           ³   ÃÄÄÄBAD0
+³           ³   ÃÄÄÄBAFB
+³           ³   ÃÄÄÄBB94
+³           ³   ÃÄÄÄBB97
+³           ³   ÃÄÄÄBBED
+³           ³   ÃÄÄÄBD00
+³           ³   ÃÄÄÄBDBA
+³           ³   ÃÄÄÄBDE2
+³           ³   ÀÄÄÄBE09
+³           ÃÄÄÄC
+³           ³   ÃÄÄÄC09D
+³           ³   ÃÄÄÄC0A7
+³           ³   ÃÄÄÄC0CF
+³           ³   ÃÄÄÄC0F6
+³           ³   ÃÄÄÄC137
+³           ³   ÃÄÄÄC2AD
+³           ³   ÃÄÄÄC3B0
+³           ³   ÃÄÄÄC4B7
+³           ³   ÃÄÄÄC519
+³           ³   ÃÄÄÄC5D7
+³           ³   ÃÄÄÄC615
+³           ³   ÃÄÄÄC6B8
+³           ³   ÃÄÄÄC71B
+³           ³   ÃÄÄÄC738
+³           ³   ÃÄÄÄC756
+³           ³   ÃÄÄÄC775
+³           ³   ÃÄÄÄC7B0
+³           ³   ÃÄÄÄC836
+³           ³   ÃÄÄÄC84B
+³           ³   ÃÄÄÄC861
+³           ³   ÃÄÄÄC946
+³           ³   ÃÄÄÄC96D
+³           ³   ÃÄÄÄC9C5
+³           ³   ÃÄÄÄCA22
+³           ³   ÃÄÄÄCA8E
+³           ³   ÃÄÄÄCB5E
+³           ³   ÃÄÄÄCBB6
+³           ³   ÃÄÄÄCC54
+³           ³   ÃÄÄÄCC99
+³           ³   ÃÄÄÄCCE9
+³           ³   ÃÄÄÄCD71
+³           ³   ÃÄÄÄCDFA
+³           ³   ÃÄÄÄCED5
+³           ³   ÃÄÄÄCF61
+³           ³   ÀÄÄÄCFE8
+³           ÃÄÄÄD
+³           ³   ÃÄÄÄD08B
+³           ³   ÃÄÄÄD0B6
+³           ³   ÃÄÄÄD158
+³           ³   ÃÄÄÄD226
+³           ³   ÃÄÄÄD336
+³           ³   ÃÄÄÄD4B6
+³           ³   ÃÄÄÄD5BC
+³           ³   ÃÄÄÄD6BA
+³           ³   ÃÄÄÄD6BE
+³           ³   ÃÄÄÄD6ED
+³           ³   ÃÄÄÄD710
+³           ³   ÃÄÄÄD7AC
+³           ³   ÃÄÄÄD7C1
+³           ³   ÃÄÄÄD839
+³           ³   ÃÄÄÄD9B9
+³           ³   ÃÄÄÄDADC
+³           ³   ÃÄÄÄDB0C
+³           ³   ÃÄÄÄDC61
+³           ³   ÃÄÄÄDE09
+³           ³   ÃÄÄÄDE1E
+³           ³   ÃÄÄÄDE20
+³           ³   ÃÄÄÄDE7D
+³           ³   ÀÄÄÄDEF6
+³           ÃÄÄÄE
+³           ³   ÃÄÄÄE04A
+³           ³   ÃÄÄÄE297
+³           ³   ÃÄÄÄE35D
+³           ³   ÃÄÄÄE3EF
+³           ³   ÃÄÄÄE456
+³           ³   ÃÄÄÄE464
+³           ³   ÃÄÄÄE5F3
+³           ³   ÃÄÄÄE647
+³           ³   ÃÄÄÄE64B
+³           ³   ÃÄÄÄE78C
+³           ³   ÃÄÄÄE896
+³           ³   ÃÄÄÄE8E5
+³           ³   ÃÄÄÄEA06
+³           ³   ÃÄÄÄEB77
+³           ³   ÃÄÄÄEB81
+³           ³   ÃÄÄÄECB8
+³           ³   ÃÄÄÄECEA
+³           ³   ÃÄÄÄED2C
+³           ³   ÃÄÄÄED6C
+³           ³   ÃÄÄÄEE9C
+³           ³   ÃÄÄÄEF77
+³           ³   ÀÄÄÄEFD3
+³           ÀÄÄÄF
+³               ÃÄÄÄF001
+³               ÃÄÄÄF275
+³               ÃÄÄÄF449
+³               ÃÄÄÄF4A2
+³               ÃÄÄÄF541
+³               ÃÄÄÄF549
+³               ÃÄÄÄF5AE
+³               ÃÄÄÄF5C3
+³               ÃÄÄÄF5FC
+³               ÃÄÄÄF60C
+³               ÃÄÄÄF61B
+³               ÃÄÄÄF65E
+³               ÃÄÄÄF6CD
+³               ÃÄÄÄF7C7
+³               ÃÄÄÄF7D6
+³               ÃÄÄÄF7E7
+³               ÃÄÄÄF826
+³               ÃÄÄÄF861
+³               ÃÄÄÄF896
+³               ÃÄÄÄF907
+³               ÃÄÄÄFA13
+³               ÃÄÄÄFAA9
+³               ÃÄÄÄFAAE
+³               ÃÄÄÄFBB4
+³               ÃÄÄÄFBD2
+³               ÃÄÄÄFCE0
+³               ÃÄÄÄFD61
+³               ÃÄÄÄFD77
+³               ÃÄÄÄFE1A
+³               ÃÄÄÄFE65
+³               ÃÄÄÄFE92
+³               ÀÄÄÄFEA1
+ÃÄÄÄSaved Games
+ÃÄÄÄSearches
+ÀÄÄÄVideos
+
+Microsoft Windows [Version 6.1.7601]
+ Volume in drive C has no label.
+ Volume Serial Number is 2E0F-9585
+0 File(s) copied
+
